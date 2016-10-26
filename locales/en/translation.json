@@ -3,14 +3,14 @@
         "en" : "English",
         "ja" : "日本語"
     },
-    "demo-title" : "Personium Sample Demo Applications",
+    "demo-title" : "Personium Sample Demo Apps",
     "demo-description" : "The sample apps demonstarating use cases of Personium.",
-    "demo1-title" : "Execute samples of OData and WebDAV APIs.",
+    "demo1-title" : "Execute demo of OData and WebDAV APIs.",
     "demo1-description" : "This demo is to explain what OData, WebDAV are like. These two REST-based protocols are international standards widely used in various area other than personium also.  More than 90% of personium API are based on these two standardized protocols. So application development using personium means application development against OData, WebDAV. ",
     "representation" : "An interconnectable open source<br/>PDS (Personal Data Store)/BaaS (Backend as a Service) / server<br/>envisioning world wide web of protected data APIs.",
-    "demo2-title" : "Data-CRUD app sample using WebDAV / OData APIs.",
+    "demo2-title" : "Data-search app sample using WebDAV / OData APIs.",
     "demo2-description" : "The minimal use case app of WebDAV / OData APIs with national information data.",
-    "demo3-title" : "Home app sample of PDS(Get ready soon)",
+    "demo3-title" : "Home app sample of PDS (Available soon)",
     "demo3-description" : "The home app sample using Personium for \"Personal Data Store(PDS)\"",
     "ppt1-title" : "Introduction",
     "ppt1-description" : "The word [personium] created by [personal] and [-ium]. Envisioning network of interconnected PDSs like creating complex polymer by bonding atoms...",
@@ -24,6 +24,6 @@
     "source" :"Clone repository from GitHub!",
     "documentation" :"See Personium's online documents!",
     "slideshare" :"The introduction of Personium is opened on SlideShare.",
-    "introduction" :"The introduction of Personium is opened on SlideShare.",
+    "introduction" :"The introduction slides on SlideShare.",
     "demosite" :"The demonstration of Personium is opened."
 }
